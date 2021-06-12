@@ -1,7 +1,7 @@
 # Password-generator
-## Contributed by @github user maayazed
+## Javascript contributed by @github user maayazed
 
-Markup provided by @gitlab user University-of-Minnesota-Boot-Camp. Additional HTML behavior markup further edited to fit javascript command goals. 
+Markup provided by @gitlab user University-of-Minnesota-Boot-Camp. 
 
 ## Links
 
